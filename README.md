@@ -36,7 +36,7 @@
 
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
 
-<p>&emsp;&emsp;嗨，我是 Dream。热爱编程、读书、健身、旅行、骑行。</p>
+<p>&emsp;&emsp;嗨，我是 Dream。一个充满好奇心的技术探索者。热爱编程、读书、健身、旅行、骑行。</p>
 <p>&emsp;&emsp;想要自己“实现”一台计算机，从零开始写 CPU + 操作系统 + 编译原理 + 网络协议 +......</p>
 <p>&emsp;&emsp;我相信，技术的魅力在于它的无限可能性。我们正在通过代码的重复使用和延展，构建一个更加优雅、高效的世界。每一行代码都是一块基石，每一个项目都是一次对未来的投资。我们不仅仅是在编写程序，我们是在创造未来。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
