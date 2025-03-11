@@ -54,14 +54,20 @@
 
 ## 🏢 Work Experience
 
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/GRCBank.png" />
+ <!--<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/GRCBank.png" />-->
+
+- [六坊科技](https://www.lfun.cn/) &emsp; 📌 2024-12 —— 
+
+  - 工作岗位：Python后端开发
+  - 工作内容：参与Python后端项目开发和维护
+<--!<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/GRCBank.png" />-->
 
 - [老男孩IT教育](https://www.oldboyedu.com/shanghai_home.html) &emsp; 📌 2023-08 —— 2024-11
 
   - 工作岗位：Python全栈讲师
   - 工作内容：参与Python全栈课程体系的完善和授课
 
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/Inspur.PNG" />
+<--! <img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/Inspur.PNG" />-->
 
 - [汐梦工作室]  📌 2022-06 —— 2023-07
 
