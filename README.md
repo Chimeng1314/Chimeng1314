@@ -54,7 +54,7 @@
 
 ## 🏢 Work Experience
 
-- [沪万科技](https://www.lfun.cn/) &emsp; 📌 2025-4 —— 
+- [沪万科技](http://www.hwtechzone.com/) &emsp; 📌 2025-4 —— 
 
   - 工作岗位：Python后端开发
   - 工作内容：参与Python后端项目开发和维护
